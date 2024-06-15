@@ -7,6 +7,4 @@ găsim relații de cauzalitate între ei.
 Astfel, pentru seturi de date foarte mari și pentru generarea unor predicții cât mai precise
 avem nevoie de diferite modele de Învățare Automată (en: Machine Learning, ML).
 Pentru a doua sarcină de lucru propusă veți avea de implementat metodele numerice asociate
-unui algoritm de Supervised Machine Learning denumit Kernel Regression. În semestrul I, la
-ALGAED, cu siguranță ați discutat despre dreapta de regresie (ca în exemplul grafic din Figura 1)
-ca dreapta ce stabilește cea mai potrivită dependență liniară.
+unui algoritm de Supervised Machine Learning denumit Kernel Regression. 
